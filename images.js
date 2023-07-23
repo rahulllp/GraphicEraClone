@@ -1,0 +1,16 @@
+import p1 from './img/p1.jpeg'
+import p2 from './img/p2.jpeg'
+import p3 from './img/p3.jpeg'
+import p4 from './img/p4.jpeg'
+import p5 from './img/p5.jpeg'
+import p6 from './img/p6.jpeg'
+import p7 from './img/p7.jpeg'
+import p8 from './img/p8.jpeg'
+import p9 from './img/p9.jpeg'
+import p10 from './img/p10.jpeg'
+import p11 from './img/p11.jpeg'
+import p12 from './img/p12.jpeg'
+import p13 from './img/p13.jpeg'
+import p14 from './img/p14.jpeg'
+
+export default [p1,p2,p3,p4,p5,p6,p7,p8,p9,p10,p11,p12,p13,p14]
